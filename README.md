@@ -1,21 +1,30 @@
-# Titanic Decision Tree 
+##titanic Survival Prediction — Decision Tree
 
-Proyecto de Machine Learning donde se entrena un Árbol de Decisión
-para predecir la supervivencia de los pasajeros del Titanic.
+Proyecto de **Machine Learning** enfocado en la predicción de supervivencia de pasajeros del Titanic utilizando un **Árbol de Decisión**.  
+El objetivo es comprender qué variables influyeron más en la supervivencia y cómo un modelo interpretable puede ayudar a explicar decisiones.
 
-## Contenido
-- Análisis exploratorio de datos
-- Árbol de decisión
-- Matriz de confusión
-- Importancia de variables
+---
 
-## Tecnologías
-- Python
-- Pandas
-- NumPy
-- Scikit-learn
-- Matplotlib
-- Seaborn
+##  Objetivo del proyecto
 
-## Ejecución
-Abrir el notebook `Titanic_Decision_Tree.ipynb` en Google Colab o Jupyter.
+- Analizar el dataset del Titanic
+- Entrenar un modelo de **clasificación supervisada**
+- Evaluar el desempeño del modelo
+- Interpretar los resultados mediante visualizaciones
+- Extraer conclusiones basadas en datos históricos
+
+---
+
+##  Dataset
+
+- **Fuente**: Dataset clásico del Titanic
+- **Variable objetivo**: `Survived`
+- **Principales features**:
+  - Sex
+  - Pclass
+  - Age
+  - Fare
+  - Family size (features derivadas)
+
+El dataset se incluye en el repositorio como:
+
