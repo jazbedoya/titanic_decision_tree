@@ -1,4 +1,4 @@
-##titanic Survival Prediction — Decision Tree
+#  Titanic Survival Prediction — Decision Tree
 
 Proyecto de **Machine Learning** enfocado en la predicción de supervivencia de pasajeros del Titanic utilizando un **Árbol de Decisión**.  
 El objetivo es comprender qué variables influyeron más en la supervivencia y cómo un modelo interpretable puede ayudar a explicar decisiones.
